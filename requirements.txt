@@ -3,4 +3,3 @@ uvicorn[standard]
 google-genai
 python-dotenv
 pydantic
-sqlite3
